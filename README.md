@@ -43,7 +43,7 @@ void loop() {
 ```
 
 進入藍芽模組AT模式，步驟如下
-1. 先拔掉 Arduino 的 USB 線，也拔掉 HC-05 VCC 和 Arduino 5V 相連的這條線。並將HC-05的KEY引腳接至Arduino 板上的3.3或5V電位。
+1. 先拔掉 Arduino 的 USB 線，也拔掉 HC-05 VCC 和 Arduino 5V 相連的這條線。
 2. 將 Arduino 的 USB 線插入電腦。
 3. 先按下HC-05板上的按鈕不放.然行將HC-05 VCC 和 Arduino 5V 相連,約1秒左右放掉HC-05板上的按鈕,此時HC-05板上的燈約2秒鐘閃一次.就代表進入TA COMMAND模式了。
 
