@@ -111,4 +111,18 @@ http://yehnan.blogspot.com/2013/01/arduinods18b20.html
 模組2：Arduino UNO R3、Bluetooth HC-05、DS18B20(溫度感測器)、MQ-7(一氧化碳)
 ![](https://i.imgur.com/5QlNk4E.png)
 
+## 六、專題框架
+檯燈裝置：
+![](https://i.imgur.com/mxlMdaz.jpg)
+
+感測火災裝置：
+![](https://i.imgur.com/7TdTN3N.jpg)
+
+## 七、實機展示
+檯燈裝置：
+![](https://i.imgur.com/cPvDdla.jpg)
+
+感測火災裝置：
+![](https://i.imgur.com/8XmpKbN.jpg)
+
 ###### tags: `專題`
